@@ -7,7 +7,7 @@
  My development journey spans from building <strong>back-end systems using C# <strong>to creating <strong> front-end interfaces with Vue.js<strong>.<br>
  I'm always exploring <strong> new technologies <strong>and applying them to <strong>create solutions<strong>.
  Currently, I am a <strong>Front-End Developer<strong> with experience in <strong>crafting user-focused interactive<strong> prototypes using <strong>Figma.<strong>
-/p>&nbsp;
+&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuciusPinhal&theme=radical&mode=weekly" />
