@@ -17,8 +17,9 @@
  &nbsp;
 
  ## My Skills
-
+ 
 #### Main Stack:
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -29,14 +30,10 @@
 
 
 ## Secondary Stack:
-<img src="https://github.com/LuciusPinhal/LuciusPinhal/assets/106531308/a17e2a0c-adf8-4f00-8447-99c7ae8fdf75"
-     alt="Computador iuriCode"
-     align="right"
-     width="300px"
-     style="min-width: 300px; max-width: 300px; border-radius: 30px; border: 10px solid white;">
-
 
 ##### 🕓 Version Control
+
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)&nbsp;
@@ -45,7 +42,7 @@
 ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ##### 🎨 Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
@@ -60,8 +57,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ##### 🥅 Other
 
@@ -93,5 +88,16 @@
 <a href="https://www.linkedin.com/in/luciuspinhal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
+ <img src="https://github.com/LuciusPinhal/LuciusPinhal/assets/106531308/a17e2a0c-adf8-4f00-8447-99c7ae8fdf75"
+     alt="Computador iuriCode"
+     align="right"
+     width="200px"
+     >
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EACC44&height=120&section=footer"/>
+
+
+
  
