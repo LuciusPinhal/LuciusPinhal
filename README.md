@@ -83,12 +83,27 @@
 ## Contacts:
 
 <div align="center"> 
+&nbsp;
 <a href="mailto:pinhal.lucius@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luciuspinhal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
+&nbsp;&nbsp;
+
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/LuciusPinhal/LuciusPinhal/blob/output/github-contribution-grid-snake-dark.svg"
+         alt="Snake animation"
+         width="700px"
+         style="max-width: 100%;"
+    >
+    <img src="https://github.com/LuciusPinhal/LuciusPinhal/assets/106531308/a17e2a0c-adf8-4f00-8447-99c7ae8fdf75"
+         alt="Computador iuriCode"
+         width="250px"
+         style="max-width: 100%; margin-right: 10px;"
+    >
+</div>
 
 
-
+&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EACC44&height=120&section=footer"/>
 
