@@ -1,11 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LuciusPinhal/LuciusPinhal/blob/main/Logo.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p  align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2000&pause=3000&color=EACC44&background=FFFFFF00&width=800&height=100&lines=%F0%9F%8C%9F+It's+a+Pleasure+to+have+you+here!+%F0%9F%8C%9F;I+am+a+Front-End+Developer!++%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8%F0%9F%8E%A8" alt="🌟 It's a Pleasure to have you here! 🌟" /></a>
-</p>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2000&pause=3000&color=EACC44&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%9F+It's+a+Pleasure+to+have+you+here!+%F0%9F%8C%9F;I+am+a+Front-End+Developer!++%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8%F0%9F%8E%A8" alt="🌟 It's a Pleasure to have you here! 🌟" /></a>
 
 <p align="center">
  I have a ❤️ for tackling challenges and using technology to solve them. <br><br>
