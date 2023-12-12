@@ -90,18 +90,7 @@
 </div>
 &nbsp;&nbsp;
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/LuciusPinhal/LuciusPinhal/blob/output/github-contribution-grid-snake-dark.svg"
-         alt="Snake animation"
-         width="600px"
-         style="max-width: 100%;"
-    >
-    <img src="https://github.com/LuciusPinhal/LuciusPinhal/assets/106531308/a17e2a0c-adf8-4f00-8447-99c7ae8fdf75"
-         alt="Computador iuriCode"
-         width="200px"
-         style="max-width: 100%; margin-right: 10px;"
-    >
-</div>
+
 
 
 &nbsp;&nbsp;
