@@ -3,6 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=35&duration=2000&pause=3000&color=EACC44&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%8C%9F+It's+a+Pleasure+to+have+you+here!+%F0%9F%8C%9F;I+am+a+Full-Stack+Developer!++%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8%F0%9F%8E%A8" alt="🌟 It's a Pleasure to have you here! 🌟" /></a>
 
+
 <p align="center">
  I have a ❤️ for tackling challenges and using technology to solve them. <br><br>
  My development journey spans from building <strong>back-end systems using C# <strong>to creating <strong> front-end interfaces with Vue.js<strong>.<br>
@@ -10,14 +11,31 @@
  Currently, I am a <strong>Front-End Developer<strong> with experience in <strong>crafting user-focused interactive<strong> prototypes using <strong>Figma.<strong>
 &nbsp;
 
+
+
 <div  align="center" style="margin-bottom:100px">
    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuciusPinhal&theme=radical&mode=weekly" />
    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=LuciusPinhal&show_icons=true&theme=radical&layout=compact" />
 </div>
 
+
+ &nbsp;
+ 
+ &nbsp;
+ 
+ &nbsp;
+
+
+ 
+## 🌟 Check Out My Portfolio!
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Now!-brightgreen?style=for-the-badge)](https://luciusportifolio.netlify.app/)
+
+
  &nbsp;
  &nbsp;
 
+ 
  ## My Skills
  
 #### Main Stack:
